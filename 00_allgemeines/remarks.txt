@@ -1,0 +1,20 @@
+Hinweis zu den Code-Anhängen
+Hinweis zu den Code-Anhängen
+
+Bei einigen Videos findest du im Anhang den 
+Code der Anwendung, z.B. der finale Code 
+einer Anwendung befindet sich immer im 
+Abschluss Videos. Nachdem du den Anhang 
+heruntergeladen und entpackt hast, musst du 
+noch die Abhängigkeiten installieren.
+
+Dafür öffnest du den Ordner in einer 
+Kommandozeile und tippst den Befehl 
+"npm install" ein.
+
+Anschließend sollten alle Abhängigkeiten 
+im node_modules Ordner installiert worden 
+sein und du kannst die Anwendung ganz 
+normal mit npm run serve starten.
+
+Viel Spaß damit!

@@ -1,0 +1,38 @@
+const submissions = [
+    {
+        id: 1,
+        title: 'Spaghetti Bolognese',
+        desc: 'Ein Nudelgericht <strong>mit</strong> Hackfleischsoße.',
+        upVotes: 18,
+        downVotes: 2,
+        author: 'Italien',
+        img: 'https://via.placeholder.com/128',
+    },
+    {
+        id: 2,
+        title: 'Wiener Schnitzel',
+        desc: 'Ein dünnes Schnitzel aus Kalbfleisch.',
+        upVotes: 10,
+        downVotes: 5,
+        author: 'Österreich',
+        img: 'https://via.placeholder.com/128',
+    },
+    {
+        id: 3,
+        title: 'Peking-Ente',
+        desc: 'Das kaiserliche Gericht.',
+        upVotes: 25,
+        downVotes: 5,
+        author: 'China',
+        img: 'https://via.placeholder.com/128',
+    },
+    {
+        id: 4,
+        title: 'Gulasch',
+        desc: 'Ein traditionelles Ragout.',
+        upVotes: 25,
+        downVotes: 1,
+        author: 'Ungarn',
+        img: 'https://via.placeholder.com/128',
+    },
+];
